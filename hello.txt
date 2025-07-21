@@ -1,0 +1,1 @@
+Hello, we are learning how to use file handling modes in python!We are all students and we're currently in B3This is an appended version

@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+PIPFILE.lock
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+MyPythonEnv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large files
+*.exe
+*.zip
+*.rar
+*.7z
+
+# Audio models
+vosk-model/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Excel files (if not needed in repo)
+*.xlsx
+*.xls
+
+# Word documents (if not needed in repo)
+*.docx
+*.doc
+
+# Image files (unless specifically needed)
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Project directories to exclude
+EdumateHub/
+EdumateHub-1/

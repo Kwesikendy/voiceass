@@ -1,0 +1,8 @@
+{
+  "microphone_index": null,
+  "energy_threshold": 300,
+  "dynamic_energy_threshold": true,
+  "pause_threshold": 0.8,
+  "phrase_threshold": 0.3,
+  "non_speaking_duration": 0.8
+}

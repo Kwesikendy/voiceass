@@ -1,0 +1,6 @@
+comtypes==1.4.11
+plyer==2.1.0
+pypiwin32==223
+pyttsx3==2.98
+pywin32==310
+schedule==1.2.2
